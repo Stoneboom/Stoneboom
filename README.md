@@ -1,4 +1,5 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  ![](https://komarev.com/ghpvc/?username=Stoneboom&color=orange)
+  <img src="https://komarev.com/ghpvc/?username=Stoneboom&color=orange&style=for-the-badge" alt="Profile views"/>
 </div>
+
